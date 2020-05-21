@@ -1,8 +1,8 @@
 <a href="https://stackexchange.com/users/7322082/rabbid76"><img src="https://stackexchange.com/users/flair/7322082.png" width="208" height="58" alt="profile for Rabbid76 on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Rabbid76 on Stack Exchange, a network of free, community-driven Q&amp;A sites" /></a>
 
-# python windowsjoystickapi
+# python windows joystick api
 
-64 bit python binding of windows joystick API ([WINMM.dll](https://answers.microsoft.com/en-us/windows/forum/all/winmmdll/5a3f6c39-847a-4f12-9e06-e3994933fcfe))
+64 bit python binding of windows joystick API ([Windows Multimedia](https://docs.microsoft.com/en-us/windows/win32/api/_multimedia/) / [WINMM.dll](https://answers.microsoft.com/en-us/windows/forum/all/winmmdll/5a3f6c39-847a-4f12-9e06-e3994933fcfe))
 
 Interface for the "joystickapi.h" functions:
 
